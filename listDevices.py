@@ -4,7 +4,7 @@ url = "https://api.spotify.com/v1/me/player/devices"
 
 payload = ""
 headers = {
-    'Authorization': "Bearer BQCdPwIPStZ7-DAsSPhlYSzxrHsZ89k9cUxVxuGXRnpKzaMOiWDOhaKWWtewKSSFGFHNSrQUtLzAnltpb2zhlIiH15AQvQKJWNCpgshPrmQCPGQewtS1M9Il3DKbDCAhCsAB1CayKxssHIkeaTploGjaU0_ueBReM5KFDj1hkUleBa0",
+    'Authorization': "Bearer BQAtR0TZtD9XRyhaebE1kVkfs0PUn-YQjf0ERDW5t_OSoB95q08J75gouG3Rnm0cQrvcgp7RyIMWynFJd2iqen1s69FvrJU1ORUp1LdOVo9914blbqy3FXwJ61qKthrdkEWbor4N4XrXqRhp7x5_Pvdu4eFn8lh_B_ci8SlFcVZWzDA",
     'cache-control': "no-cache",
     }
 
