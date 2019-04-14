@@ -3,8 +3,8 @@ import base64
 
 
 url = 'https://accounts.spotify.com/api/token'
-client_id = '78581569df8f435e82dcc96dfc400070'
-client_secret = 'ed22f981f0f64258bad72f62aa1f1923'
+client_id = ''
+client_secret = ''
 
 credentials = ('%s:%s' % (client_id, client_secret))
 
